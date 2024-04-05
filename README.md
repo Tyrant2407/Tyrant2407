@@ -3,10 +3,9 @@
 Perkenalkan nama saya **Rizky Putra Perdana**.<br>
 
 Saya seorang **Web Development** di [Dicoding](https://www.dicoding.com/).<br>
+.<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga merupakan mahasiswa di Universitas Gunadarma<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/rizky-perdana240703)ku ya.
 
