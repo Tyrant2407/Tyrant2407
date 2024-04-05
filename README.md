@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Rizky Putra Perdana**.<br>
 
 Saya seorang **Web Development** di [Dicoding](https://www.dicoding.com/).<br>
-.<br>
+<br>
 
 Saya juga merupakan mahasiswa di Universitas Gunadarma<br>
 
