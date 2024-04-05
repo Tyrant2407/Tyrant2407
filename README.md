@@ -7,7 +7,7 @@ Saya seorang **Web Development** di [Dicoding](https://www.dicoding.com/).<br>
 
 Saya juga merupakan mahasiswa di Universitas Gunadarma<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/rizky-perdana240703)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/rizky-perdana240703/)ku ya.
 
 <p align="left">
 <a href="https://github.com/Tyrant2407">
