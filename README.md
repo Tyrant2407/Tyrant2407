@@ -64,5 +64,5 @@ A detail-oriented software engineer specializing in building robust web architec
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/rizkyputraperdana](https://linkedin.com)
-- ✉️ **Email:** [rizky.putra@example.com](mailto:rizky.putra@example.com)
+- ✉️ **Email:** [rizky.perdana9e@gmail.com](mailto:rizky.perdana9e@gmail.com)
 - 🎨 **Figma Portfolio:** Available upon request
